@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCTE8koxoa8u2NcBTmH7eoFRRPPgf7bByVia2kIDy0wgtxGc36uWioh5+hbQP+vqRhfVFoglWUVm7IGDMSeJSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\24eb02\\RiderProjects\\TheaterStream\\src\\TheaterStream\\TheaterStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\24eb02\\.nuget\\packages\\docfx.console\\2.56.5\\docfx.console.2.56.5.nupkg.sha512"
+  ],
+  "logs": []
+}
